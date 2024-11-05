@@ -1,0 +1,185 @@
+/*** formatação padrão ***/
+body{
+    padding: 50px 0;
+    height: 100%;
+    border: 1px solid;
+}
+
+.container{
+    padding-bottom: 50px;
+}
+
+/*** formatação coluna-rosa ***/
+.coluna-rosa{
+    background-color: #F9EEE0;
+    height: 330px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.coluna-rosa h1{
+    font-size: 1.7em;
+    font-family: sans-serif;
+    font-weight: 500;
+    padding: 0px 10px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.coluna-rosa .imagem{
+    margin-left: 10px;
+}
+
+/*** formatação coluna-roxa ***/
+.coluna-roxa{
+    background-color: #7651DD;
+    height: 280px;
+    border-radius: 10px;
+}
+
+.coluna-roxa h1{
+    color: white;
+    font-size: 4em;
+    margin: 0 auto;
+    padding: 0 40px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.coluna-roxa .imagem{
+    margin-left: 230px;
+    margin-top: 10px;
+}
+
+.coluna-roxa p{
+    color: #DDD1FC;
+    text-align: center;
+    
+}
+
+/*** formatação coluna-cinza ***/
+.coluna-cinza{
+    background-color: #DDD1FC;
+    height: 450px;
+}
+
+.coluna-cinza h1{
+    font-size: 1.4em;
+    font-family: sans-serif;
+    padding-left: 5px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.coluna-cinza p{
+    color: black;
+    margin-top: 20px;
+    text-align: left;
+    font-size: 0.9em;
+}
+
+/*** formatação coluna-laranja1 ***/
+
+.coluna-laranja1{
+    background-color: #FFCD6A;
+    height: 330px;
+    border-radius: 15px;
+    margin-top: 0;
+}
+
+.coluna-laranja1 h1{
+    font-size: 1.7em;
+    font-family: sans-serif;
+    font-weight: 500;
+    padding: 0px 10px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+/*** formatação coluna-branca ***/
+.coluna-branca{
+    height: 165px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.coluna-branca h1{
+    font-size: 1.2em;
+    font-family: sans-serif;
+    width: 150px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 50px;
+}
+
+.coluna-laranja2{
+    height: 165px;
+    background-color: #FFCD6A;
+    margin-top: 20px;
+}
+
+.coluna-laranja2 h1{
+    font-size: 1.1em;
+    font-family: sans-serif;
+    width: 100px;
+    font-weight: 600;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+
+.coluna-laranja2 img{
+    position: relative;
+    bottom: 90px;
+}
+
+.coluna-branca2{
+    height: 165px;
+    background-color: white;
+    margin-top: 48px;
+}
+
+.coluna-branca2 h1{
+    font-size: 0.8em;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+.coluna-branca2 span{
+    padding-top: 10px;
+    font-size: 3em;
+    padding-left: 50px;
+}
+
+.coluna-roxa2{
+    position: relative;
+    left: 610px;
+    bottom: 212px;
+    height: 165px;
+    background-color: #7651DD;
+    width: 500px;
+    margin-top: 48px;
+}
+
+.coluna-roxa2 h1{
+    color: white;
+    font-size: 2em;
+    width: 230px;
+    font-family: sans-serif;
+    font-weight: 500;
+    text-align: left;
+    position: relative;
+    left: 200px;
+    top: 30px;
+}
+
+.coluna-roxa2 img{
+    margin-top: 15px;
+    margin-left: 20px;
+    position: relative;
+    bottom: 120px;
+}
+
+
